@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Catalogue_ELBAHI_ELRHAZI">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Catalogue_ELBAHI_ELRHAZI"/>
+        <property name="java-output-path" value="/Catalogue_ELBAHI_ELRHAZI/build/classes"/>
+    </wb-module>
+</project-modules>
